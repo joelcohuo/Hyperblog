@@ -9,3 +9,8 @@ Algunas de las cosas que aprendíe en este curso son las siguientes:
 - Ramas
 - GitHub
 - Configuración de llaves públicas y privadas
+- Repositorios remotos
+- Git Pages
+
+#### Editor de código utilizado :fa-file-code-o:
+Para este curso aprendí a usar Visual Code Studio de Microsoft
