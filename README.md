@@ -9,3 +9,4 @@ Algunas de las cosas que aprendíe en este curso son las siguientes:
 - Ramas
 - GitHub
 - Configuración de llaves públicas y privadas
+- Creado por el increíble Joel Cohuo
