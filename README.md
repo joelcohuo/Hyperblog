@@ -10,3 +10,8 @@ Algunas de las cosas que aprendíe en este curso son las siguientes:
 - GitHub
 - Configuración de llaves públicas y privadas
 - Creado por el increíble Joel Cohuo
+- Repositorios remotos
+- Git Pages
+
+#### Editor de código utilizado :fa-file-code-o:
+Para este curso aprendí a usar Visual Code Studio de Microsoft
